@@ -1,2 +1,2 @@
-# Online-Shop-for-JSP
-JSP语言程序设计期中实践作业
+# JSP在线商城项目
+使用JSP语言设计的在线商城项目
